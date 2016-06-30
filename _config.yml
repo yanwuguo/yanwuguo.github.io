@@ -1,2 +1,3 @@
 name:Yanwu Guo
 markdown: kramdow
+permalink: /blog/:year/:month/:day/:title
