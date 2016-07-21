@@ -5,7 +5,7 @@ highlight_color: '#3498db'
 
 # Profile links on the left sidebar, leave blank to ignore
 social:
-  github: swanson
+  github: yanwuguo
   #bitbucket: philipj
   hacker_news: swanson
   #stackexchange: 348619
@@ -19,7 +19,7 @@ social:
   #flickr: johndoe
 
 # "Hi, I'm _______"
-name: Matt Swanson
+name: Yanwu Guo
 email: test@example.com
 tagline: "weak opinions, strongly held"
 
